@@ -9,7 +9,7 @@ name: Raphael Kuster
 description: C# developer and maker from Austria
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/portrait.png)
+avatar: https://bighoss.github.io/images/portrait.png)
       
 
 
