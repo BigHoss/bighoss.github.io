@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hap Codec for Adobe Products
+tags: visuals codec
+---
+
+As quicktime based codecs are to be extict soon adobe removed the quicktime support intheir softwares.
+To still export to [HAP](https://hap.video/) the easiest und free way is to use the [DisguiseOne Plugins](https://github.com/disguise-one/hap-encoder-adobe-cc)
