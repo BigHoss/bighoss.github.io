@@ -1,0 +1,11 @@
+---
+layout: post
+title: Font Installer
+tags: tool
+published: true
+---
+
+I have a collection of free fonts that i store in a cloude drive. 
+And averytime i start working on a new pc/mac i have the problem that it takes a long time to install all the fonts.
+
+So i created the [FontInstaller](https://github.com/BigHoss/FontInstaller)
