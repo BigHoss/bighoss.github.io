@@ -6,4 +6,4 @@ published: false
 ---
 
 I moved my ScratchPad from Microsoft Team Services over here.  
-[ScratchPad](../ScratchPad)
+[ScratchPad](https://github.com/BigHoss/ScratchPad)
