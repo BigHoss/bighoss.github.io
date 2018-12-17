@@ -4,9 +4,6 @@ title: Story of me and how i got here
 tags: me personal
 published: true
 ---
-[Original Post](https://medium.com/@rfkuster/random-dude-543a90909767)
-
-
 Story of me and how i got here
 Hey, nice of you to check me out.
 I am Raphael, i work as a software engineer (C#) and i do, and did, a lot of other stuff.
@@ -28,3 +25,4 @@ A few weeks ago i started working back "at home" again. We'll see how that turns
 So there is a lot more going on in my life. I try to write regular stories to get that stuff out of my head.
 All of the stories i write are my personal opinions. I know they are quite different and they can change. Please criticise me, i like it a lot, and maybe you can help me to get better at whatever it is.
 
+[Original Post](https://medium.com/@rfkuster/random-dude-543a90909767)
