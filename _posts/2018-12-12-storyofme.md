@@ -11,7 +11,7 @@ Story of me and how i got here
 Hey, nice of you to check me out.
 I am Raphael, i work as a software engineer (C#) and i do, and did, a lot of other stuff.
 
-![Me]({{ site.baseurl }}/images/blue_portrait.jpeg "me)
+![Me]({{ site.baseurl }}/images/blue_portrait.jpeg)
 
 My career started off as an IT supporter, or more that i had an apprenticeship to become one. At the company i worked on i learned a lot of things, but not really in the realm of IT. I learned a lot about electricity, antenna (satellite an terrestrial) installations and sales. But i was not really pleased by that so i changed companies after 3 years to finish what i started at a company with more IT focus.
 Then i had to go to the Austrian Armed Forces to do my national service for 6 month. During that time i was working as a combat-writer, s i did the most work on a pc. And started to improve the software the battalion was using. These were my first real steps into software development.
