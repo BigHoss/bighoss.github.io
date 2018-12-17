@@ -16,7 +16,7 @@ With a short break after that i started working in a software company in the sup
 Parallel to that i did a lot of event work, starting with visuals, djing, light designs and complete organisational stuff.  
 
 
-![Visuals]({{ site.baseurl }}/images/jonathan-daniels-648926-unsplash.jpg)  
+[![Visuals]({{ site.baseurl }}/images/jonathan-daniels-648926-unsplash.jpg)](https://unsplash.com/@dear_jondog)
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@dear_jondog?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Jonathan Daniels"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Pic by Jonathan Daniels</span></a>  
 
 
@@ -25,7 +25,7 @@ Almost a full year later and after several learned lessons i knew that the event
 At that time i saw that i need more theory to really succeed in that industry. So i started a c# software developer training at our local economics training institute. The company paid for that training, the day after the CTO of that company told us that he will leave us a few of us were let go. I finished that training and started looking for a new company afterwards.
 
 
-![Festival]({{ site.baseurl }}/images/ciprian-boiciuc-330413-unsplash.jpg)  
+[![Festival]({{ site.baseurl }}/images/ciprian-boiciuc-330413-unsplash.jpg)  ](https://unsplash.com/@ciprian)
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@ciprian?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Ciprian Boiciuc"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Pic by Ciprian Boiciuc</span></a>  
 
 
