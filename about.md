@@ -8,4 +8,4 @@ i do stuff, random stuff
 
 ### Contact me
 
-[Mail](mailto:info@hoss.at)
+[Mail](mailto:raphael.f.kuster@gmail.com)
