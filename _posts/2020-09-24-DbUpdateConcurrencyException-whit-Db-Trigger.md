@@ -1,11 +1,10 @@
 ---
 layout: post
-title: DbUpdateConcurrencyException when Trigger is active on the db table
+title: ConcurrencyException when db Trigger
 tags: ef core, entity framework, csharp
 published: true
 ---
 
-# Problem
 We have a database that sums related datasets to another table.
 As Ef tries to insert datasets there was a Exception that there was change in 1 row expected but was 0.
 
